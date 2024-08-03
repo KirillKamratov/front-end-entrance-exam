@@ -1,0 +1,10 @@
+.contacts {
+  margin: 0;
+  padding: 12px;
+  box-sizing: border-box;
+  display: grid;
+  background-color: #000000;
+  color: #FFFFFF;
+  border-radius: 12px;
+  justify-content: space-between;
+}

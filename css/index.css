@@ -1,0 +1,71 @@
+@import "./vendor/normalize.css";
+@import "./vendor/fonts/Poppins/poppins.css";
+
+@import "./blocks/page/page.css";
+@import "./blocks/content/content.css";
+
+@import "./blocks/header/header.css";
+@import "blocks/header/__profile/header__profile.css";
+@import "./blocks/header/__photo/header__photo.css";
+@import "./blocks/header/__info/header__info.css";
+@import "./blocks/header/__info/__greeting/header__info__greating.css";
+@import "./blocks/header/__info/__name/header__info__name.css";
+@import "./blocks/header/__info/__role/header__info__role.css";
+@import "./blocks/header/__languages/header__languages.css";
+@import "./blocks/header/__languages/__title/header__languages__title.css";
+@import "./blocks/header/__languages/__list/header__languages__list.css";
+@import "./blocks/header/__languages/__names/header__languages__names.css";
+@import "./blocks/header/__languages/__name/header__languages__name.css";
+@import "./blocks/header/__languages/__progress/header__languages__progress.css";
+
+@import "./blocks/main/main.css";
+
+@import "./blocks/tools/tools.css";
+@import "./blocks/tools/__title/tools__title.css";
+@import "./blocks/tools/__items/tools__items.css";
+@import "./blocks/tools/__item/tools__item.css";
+@import "./blocks/tools/__item/__title/tools__item__title.css";
+@import "./blocks/tools/__item/__title/__text/tools__item__title__text.css";
+
+@import "./blocks/experience/experience.css";
+@import "./blocks/experience/__title/experience__title.css";
+@import "./blocks/experience/__list/experience__list.css";
+@import "./blocks/experience/__item/experience__item.css";
+@import "./blocks/experience/__item/__header/experience__item__header.css";
+@import "./blocks/experience/__item/__time/experience__item__time.css";
+@import "./blocks/experience/__item/__active/experience__item__active.css";
+@import "./blocks/most-recent/most-recent.css";
+@import "./blocks/most-recent/__title/most-recent__title.css";
+@import "./blocks/experience/__position/experience__position.css";
+@import "./blocks/experience/__place/experience__place.css";
+@import "./blocks/experience/__item/__main/experience__item__main.css";
+@import "./blocks/experience/__jobInfo/experience__jobInfo.css";
+@import "./blocks/experience/__featuredPoints/experience__featuredPoints.css";
+@import "./blocks/experience/__featuredPoints/__point/experience__featuredPoints__point.css";
+
+@import "blocks/footer/footer.css";
+
+@import "./blocks/education/education.css";
+@import "./blocks/education/__title/education__title.css";
+@import "./blocks/education/__list/education__list.css";
+@import "./blocks/education/__item/education__item.css";
+@import "./blocks/education/__item/__header/education__item__header.css";
+@import "./blocks/education/__item/__year/education__item__year.css";
+@import "./blocks/education/__item/__content/education__item__content.css";
+@import "./blocks/education/__item/__title/education__item__title.css";
+@import "./blocks/education/__tags/education__tags.css";
+@import "./blocks/education/__item/__footer/education__item__footer.css";
+
+@import "./blocks/other/other.css";
+
+@import "./blocks/interests/interests.css";
+@import "./blocks/interests/__title/interests__title.css";
+@import "./blocks/interests/__tags/interests__tags.css";
+@import "./blocks/interests/__tag/interests__tag.css";
+
+@import "./blocks/contacts/contacts.css";
+@import "./blocks/contacts/__title/contacts__title.css";
+@import "./blocks/contacts/__text/contacts__text.css";
+
+
+

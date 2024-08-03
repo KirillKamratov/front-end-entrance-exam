@@ -1,0 +1,8 @@
+.content {
+  margin: 0;
+  padding: 15px 20px;
+  width: 595px;
+  box-sizing: border-box;
+  display: grid;
+  gap: 20px;
+}

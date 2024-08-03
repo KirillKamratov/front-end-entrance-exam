@@ -1,0 +1,5 @@
+.experience__list {
+  display: grid;
+  gap: 10px;
+  margin: 0;
+}

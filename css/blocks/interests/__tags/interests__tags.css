@@ -1,0 +1,10 @@
+.interests__tags {
+  max-width: max-content;
+  box-sizing: border-box;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}

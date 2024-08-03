@@ -1,0 +1,10 @@
+.tools {
+  display: grid;
+  max-height: 359px;
+  height: 100%;
+  background-color: #F0F0F0;
+  border-radius: 12px;
+  padding: 12px;
+  box-sizing: border-box;
+  margin: 0;
+}

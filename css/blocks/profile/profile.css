@@ -1,0 +1,23 @@
+.profile {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+  flex-direction: row;
+  align-items: center;
+  box-sizing: border-box;
+  margin: 0;
+  max-width: 555px;
+  max-height: 124px;
+}
+
+.profile__item:nth-child(1) {
+  grid-column: span 1;
+}
+
+.profile__item:nth-child(2) {
+  grid-column: span 1;
+}
+
+.profile__item:nth-child(3) {
+  grid-column: span 2;
+}

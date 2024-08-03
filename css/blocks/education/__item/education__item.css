@@ -1,0 +1,19 @@
+.education__item {
+  box-sizing: border-box;
+  max-width: 116px;
+  width: 100%;
+  background-color: #FFFFFF;
+  border-radius: 10px;
+  padding: 8px;
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  gap: 8px;
+  height: fit-content;
+}
+
+.last {
+  background-color: #28D979;
+  color: #FFFFFF;
+}

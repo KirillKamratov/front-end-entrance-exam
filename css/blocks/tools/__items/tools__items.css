@@ -1,0 +1,5 @@
+.tools__items {
+  display: grid;
+  gap: 12px;
+  margin: 0 12px;
+}

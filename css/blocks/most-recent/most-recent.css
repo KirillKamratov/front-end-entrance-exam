@@ -1,0 +1,8 @@
+.most-recent {
+  max-width: max-content;
+  width: 100%;
+  background-color: rgba(126, 115, 18, 0.4);
+  border-radius: 59px;
+  padding: 2px 6px;
+  box-sizing: border-box;
+}
