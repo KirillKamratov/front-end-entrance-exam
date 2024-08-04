@@ -1,0 +1,25 @@
+.editable {
+  border: 1px dashed #ccc;
+  padding: 2px;
+  transition: all 0.3s ease-in-out;
+}
+
+.editable:focus {
+  background-color: #d9b0aa;
+  border-color: #00aaff;
+  outline: none;
+  box-shadow: 0 0 5px rgba(0, 170, 255, 0.5);
+}
+
+.saved {
+  animation: save-animation 0.5s ease-in-out;
+}
+
+@keyframes save-animation {
+  0% {
+    background-color: #72a9e8;
+  }
+  100% {
+    background-color: transparent;
+  }
+}

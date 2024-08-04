@@ -1,7 +1,7 @@
 .tools__item__title {
   border-radius: 59px;
   padding: 2px 6px;
-  width: fit-content;
+  width: max-content;
   background-color: #000000;
   color: #FFFFFF;
   position: absolute;

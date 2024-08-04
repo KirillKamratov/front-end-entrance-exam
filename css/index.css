@@ -67,5 +67,9 @@
 @import "./blocks/contacts/__title/contacts__title.css";
 @import "./blocks/contacts/__text/contacts__text.css";
 
+@import "./blocks/download-button/download-button.css";
+
+@import "./editable/editable.css";
+
 
 

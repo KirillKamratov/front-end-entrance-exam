@@ -41,5 +41,12 @@
         "import/no-cycle": "off",
         "guard-for-in": "off",
         "max-len": ["error", { "code": 150 }]
+    },
+  "settings": {
+    "import/resolver": {
+      "node": {
+        "extensions": [".js", ".jsx"]
+      }
     }
+  }
 }
