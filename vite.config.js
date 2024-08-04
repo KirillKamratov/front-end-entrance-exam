@@ -2,18 +2,10 @@ import { defineConfig } from 'vite';
 import { resolve } from 'path';
 
 export default defineConfig({
-	base: '/front-end-entrance-exam/',
+	base: './',
 	root: '.',
 	build: {
-		outDir: 'dist',
-		rollupOptions: {
-			input: resolve(__dirname, 'index.html'),
-			output: {
-				entryFileNames: 'js/[name].js',
-				assetFileNames: 'assets/[name]-[hash][extname]',
-				chunkFileNames: 'js/[name]-[hash].js',
-			},
-		},
+		sourcemap: true,
 	},
 	server: {
 		open: true,
@@ -23,5 +15,8 @@ export default defineConfig({
 		alias: {
 			'@': resolve(__dirname, 'js'),
 		},
+	},
+	css: {
+		devSourcemap: true,
 	},
 });
