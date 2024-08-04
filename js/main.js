@@ -1,4 +1,5 @@
-import '../css/index.css'
+import '../css/index.css';
 import './download';
-import './edit'
+import './edit';
+import './ripple';
 
