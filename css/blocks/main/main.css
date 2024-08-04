@@ -3,3 +3,10 @@
   flex-direction: row;
   gap: 20px;
 }
+
+@media (max-width: 980px) {
+  .main {
+    display: grid;
+    gap: 15px;
+  }
+}

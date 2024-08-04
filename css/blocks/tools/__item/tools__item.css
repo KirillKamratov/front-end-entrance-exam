@@ -8,3 +8,9 @@
   position: relative;
   box-sizing: border-box;
 }
+
+@media (max-width: 980px) {
+  .tools__item:nth-child(1) {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+}

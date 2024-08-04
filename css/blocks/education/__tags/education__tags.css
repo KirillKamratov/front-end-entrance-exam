@@ -15,4 +15,10 @@
   color: #149063;
 }
 
+@media (max-width: 980px) {
+  .education__tags {
+    flex-wrap: nowrap;
+  }
+}
+
 

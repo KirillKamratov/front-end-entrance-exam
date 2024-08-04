@@ -7,3 +7,9 @@
   padding: 0;
 }
 
+@media (max-width: 980px) {
+  .education__list {
+    grid-template-columns: 1fr;
+  }
+}
+

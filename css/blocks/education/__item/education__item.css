@@ -17,3 +17,9 @@
   background-color: #28D979;
   color: #FFFFFF;
 }
+
+@media (max-width: 980px) {
+  .education__item {
+    max-width: 100%;
+  }
+}

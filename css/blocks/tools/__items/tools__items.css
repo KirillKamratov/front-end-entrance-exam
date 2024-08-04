@@ -3,3 +3,11 @@
   gap: 12px;
   margin: 0 12px;
 }
+
+@media (max-width: 980px) {
+  .tools__items {
+    display: flex;
+    margin: 0;
+    gap: 20px;
+  }
+}

@@ -2,3 +2,9 @@
   display: grid;
   gap: 20px;
 }
+
+@media (max-width: 980px) {
+  .other {
+    gap: 15px;
+  }
+}

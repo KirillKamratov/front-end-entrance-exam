@@ -8,3 +8,9 @@
   margin: 0;
   box-sizing: border-box;
 }
+
+@media (max-width: 980px) {
+  .education {
+    max-width: 100%;
+  }
+}

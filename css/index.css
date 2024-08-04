@@ -5,7 +5,7 @@
 @import "./blocks/content/content.css";
 
 @import "./blocks/header/header.css";
-@import "blocks/header/__profile/header__profile.css";
+@import "./blocks/header/__profile/header__profile.css";
 @import "./blocks/header/__photo/header__photo.css";
 @import "./blocks/header/__info/header__info.css";
 @import "./blocks/header/__info/__greeting/header__info__greating.css";

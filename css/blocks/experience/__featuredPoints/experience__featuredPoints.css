@@ -1,5 +1,10 @@
 .experience__featuredPoints {
   padding: 0;
   margin: 0;
-  box-sizing: border-box;
+}
+
+@media (max-width: 980px) {
+  .experience__featuredPoints {
+    margin-left: 10px;
+  }
 }
