@@ -17,3 +17,5 @@
 - CSS
 - JS (html2pdf.js, material-ripple-effects)
 
+## для редактирования текста необходимо дважды кликнуть нему
+

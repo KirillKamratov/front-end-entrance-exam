@@ -1,5 +1,6 @@
 .header__photo {
   width: 124px;
+  max-height: 124px;
   margin: 0;
 }
 
